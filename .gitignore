@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.key
+api-keys*.env
+
+# Large media (keep links in docs instead)
+*.mp4
+*.mov
+*.psd
+*.aep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
