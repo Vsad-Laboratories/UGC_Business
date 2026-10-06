@@ -13,7 +13,7 @@ FREE: Luxury Perfume UGC Ad Template #Shorts #PerfumeAd #FreeTemplate
 ## Description
 
 Cinematic 10-second perfume ad — no dialogue, golden luxury look. Download the editable version and brand it.
-📥 Editable template: [Drive link]
+📥 Editable template: https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/aura-perfume.mp4
 #Shorts #UGCAd #PerfumeMarketing #BeautyMarketing
 
 ## Tags (optional)
@@ -30,7 +30,7 @@ perfume ad, luxury perfume commercial, free perfume ad template, ugc perfume, fr
 
 ## Pin first comment
 
-📥 Download the editable template: [link] — brands: submit your product: [form link]
+📥 Download the editable template: https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/aura-perfume.mp4 — brands: submit your product: [form link]
 
 ## Thumbnail
 

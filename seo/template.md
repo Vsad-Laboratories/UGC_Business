@@ -16,7 +16,7 @@ FREE: [Category] UGC Ad Template #Shorts #[Category] #FreeTemplate
 ## Description (short — hidden in feed, helps indexing + links)
 
 [1–2 lines what the video is]
-📥 Editable template: [Drive link]
+📥 Editable template: https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/<file>.mp4
 #Shorts #UGCAd #[Category]
 
 ## Tags (optional — hidden metadata, minor weight for Shorts)
@@ -34,7 +34,7 @@ free ugc ad, ugc template, editable video template, [category] ad
 
 ## Pin the first comment
 
-📥 Download the editable template: [link] — submit your product: [form link]
+📥 Download link: https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/<file>.mp4 — submit your product: [form link]
 
 ## Thumbnail
 

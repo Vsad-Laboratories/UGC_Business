@@ -9,8 +9,7 @@
 *.key
 api-keys*.env
 
-# Large media (keep links in docs instead)
-*.mp4
+# Large media working files (final templates live in /videos)
 *.mov
 *.psd
 *.aep
