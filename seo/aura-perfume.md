@@ -8,35 +8,30 @@
 
 ## Title
 
-FREE: Luxury Perfume UGC Ad Template | Editable Cinematic | Download
-
-## Caption (bullets)
-
-- Cinematic 10-second perfume ad — no dialogue, pure visual
-- Golden luxury aesthetic, ready for any perfume brand
-- Fully editable — add your logo, name, CTA
-- Works as-is on TikTok, Reels, Shorts, YouTube ads
+FREE: Luxury Perfume UGC Ad Template #Shorts #PerfumeAd #FreeTemplate
 
 ## Description
 
-FREE cinematic UGC ad template for perfume brands. Macro glass shots, golden tones, elegant music. Download the editable version and make it yours.
+Cinematic 10-second perfume ad — no dialogue, golden luxury look. Download the editable version and brand it.
+📥 Editable template: [Drive link]
+#Shorts #UGCAd #PerfumeMarketing #BeautyMarketing
 
-## Hashtags
+## Tags (optional)
 
-#PerfumeAd #UGCAd #PerfumeMarketing #LuxuryAd #FreeTemplate #BeautyMarketing #VideoAd #EditableTemplate #SmallBusiness #AestheticAd
+perfume ad, luxury perfume commercial, free perfume ad template, ugc perfume, fragrance ad, editable video template
 
-## Tags
+## Settings checklist
 
-perfume ad, luxury perfume commercial, free perfume ad template, ugc perfume, fragrance ad, editable video template, perfume marketing, perfume video ad
+- Audience: **Not made for kids**
+- Category: Howto & Style
+- AI disclosure: **Yes**
+- Playlist: Free Professional UGC Templates → Beauty & Skincare
+- Schedule: 7–9 PM PKT
 
-## Upload Time
+## Pin first comment
 
-7–9 PM PKT (US ET morning / EU afternoon)
+📥 Download the editable template: [link] — brands: submit your product: [form link]
 
 ## Thumbnail
 
-Golden perfume bottle + bold text "FREE PERFUME AD"
-
-## Playlist
-
-Free Professional UGC Templates → Beauty & Skincare
+Golden bottle + bold "FREE PERFUME AD" (desktop Studio, or let auto-frame pick)
