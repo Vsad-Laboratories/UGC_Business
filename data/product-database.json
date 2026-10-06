@@ -11,7 +11,6 @@
     { "id": 8, "name": "Hosting & Domain", "category": "Infrastructure", "promptFile": "prompts/evergreen/hosting-domain.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
     { "id": 9, "name": "Analytics Platform", "category": "SaaS", "promptFile": "prompts/evergreen/analytics-platform.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
     { "id": 10, "name": "VPN & Security", "category": "Security", "promptFile": "prompts/evergreen/vpn-security.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 11, "name": "Aura Perfume", "category": "Beauty", "promptFile": "prompts/custom/aura-perfume.md", "status": "produced", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 12, "name": "Roccat Kone Pro (Turtle Beach)", "category": "Gaming", "promptFile": "prompts/custom/roccat-kone-pro.md", "status": "produced", "youtubeUrl": null, "downloadUrl": null }
+    { "id": 11, "name": "Aura Perfume", "category": "Beauty", "promptFile": "prompts/custom/aura-perfume.md", "status": "produced", "youtubeUrl": null, "downloadUrl": null }
   ]
 }
