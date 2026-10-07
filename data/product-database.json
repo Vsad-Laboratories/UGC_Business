@@ -99,6 +99,15 @@
       "status": "uploaded",
       "youtubeUrl": null,
       "downloadUrl": "https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/aura-perfume.mp4"
+    },
+    {
+      "id": 13,
+      "name": "Design Tool (generic)",
+      "category": "Design",
+      "promptFile": "prompts/custom/design-tool-generic.md",
+      "status": "prompt-ready",
+      "youtubeUrl": null,
+      "downloadUrl": null
     }
   ]
 }
