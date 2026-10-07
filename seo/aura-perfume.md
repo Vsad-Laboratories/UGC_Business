@@ -1,20 +1,30 @@
 # SEO: Aura Perfume
 
-**Video file:** 
+**Video file:** videos/aura-perfume.mp4
 **Category:** Beauty / Fragrance
-**Status:** produced
+**Status:** uploaded
 
 ---
 
-## Title
+## Title (84/100 chars — hashtags live in the title)
 
-FREE: Luxury Perfume UGC Ad Template #Shorts #PerfumeAd #FreeTemplate
+FREE Luxury Perfume UGC Ad Template #Shorts #PerfumeAd #Fragrance #FreeTemplate #UGC
 
-## Description
+## Description (hidden in feed, for indexing + links)
 
 Cinematic 10-second perfume ad — no dialogue, golden luxury look. Download the editable version and brand it.
 📥 Editable template: https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/aura-perfume.mp4
 #Shorts #UGCAd #PerfumeMarketing #BeautyMarketing
+
+## Voiceover script (burn in after upload; see templates/voiceover-script-template.md)
+
+| Time | Line |
+|------|------|
+| 0.0–0.3s | silent — bottle macro already moving |
+| 0.3s | "Free product ads, part one." |
+| 1.2s | "Today — Aura." |
+| 2.0s | "Ten seconds. Free to download." |
+| 2.8s | VO stops — orchestral build carries the rest |
 
 ## Tags (optional)
 

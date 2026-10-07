@@ -22,4 +22,10 @@ COLOR & MOOD:
 
 OUTPUT: 10-second ready-to-upload video file with integrated audio, color grading, and transitions."
 
+---
+
+## Voiceover overlay (added after generation, see templates/voiceover-script-template.md)
+
+Visual-only version stays as the clean master for the template package. For the YouTube Short, burn in the series VO (0.3s delay, ~3s total) and duck the music bed -6 dB under it.
+
 Status: produced ✓

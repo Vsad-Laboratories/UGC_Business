@@ -1,16 +1,104 @@
 {
   "lastUpdated": "2026-10-06",
   "products": [
-    { "id": 1, "name": "Email Marketing", "category": "SaaS", "promptFile": "prompts/evergreen/email-marketing.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 2, "name": "Website Builders", "category": "SaaS", "promptFile": "prompts/evergreen/website-builder.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 3, "name": "Graphic Design Tools", "category": "SaaS", "promptFile": "prompts/evergreen/design-tool.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 4, "name": "Project Management", "category": "SaaS", "promptFile": "prompts/evergreen/project-management.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 5, "name": "Payment Gateways", "category": "Fintech", "promptFile": "prompts/evergreen/payment-gateway.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 6, "name": "CRM Software", "category": "SaaS", "promptFile": "prompts/evergreen/crm-software.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 7, "name": "Social Media Scheduler", "category": "SaaS", "promptFile": "prompts/evergreen/social-media-scheduler.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 8, "name": "Hosting & Domain", "category": "Infrastructure", "promptFile": "prompts/evergreen/hosting-domain.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 9, "name": "Analytics Platform", "category": "SaaS", "promptFile": "prompts/evergreen/analytics-platform.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 10, "name": "VPN & Security", "category": "Security", "promptFile": "prompts/evergreen/vpn-security.md", "status": "planned", "youtubeUrl": null, "downloadUrl": null },
-    { "id": 11, "name": "Aura Perfume", "category": "Beauty", "promptFile": "prompts/custom/aura-perfume.md", "status": "produced", "youtubeUrl": null, "downloadUrl": "https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/aura-perfume.mp4" }
+    {
+      "id": 1,
+      "name": "Email Marketing",
+      "category": "SaaS",
+      "promptFile": "prompts/evergreen/email-marketing.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 2,
+      "name": "Website Builders",
+      "category": "SaaS",
+      "promptFile": "prompts/evergreen/website-builder.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 3,
+      "name": "Graphic Design Tools",
+      "category": "SaaS",
+      "promptFile": "prompts/evergreen/design-tool.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 4,
+      "name": "Project Management",
+      "category": "SaaS",
+      "promptFile": "prompts/evergreen/project-management.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 5,
+      "name": "Payment Gateways",
+      "category": "Fintech",
+      "promptFile": "prompts/evergreen/payment-gateway.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 6,
+      "name": "CRM Software",
+      "category": "SaaS",
+      "promptFile": "prompts/evergreen/crm-software.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 7,
+      "name": "Social Media Scheduler",
+      "category": "SaaS",
+      "promptFile": "prompts/evergreen/social-media-scheduler.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 8,
+      "name": "Hosting & Domain",
+      "category": "Infrastructure",
+      "promptFile": "prompts/evergreen/hosting-domain.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 9,
+      "name": "Analytics Platform",
+      "category": "SaaS",
+      "promptFile": "prompts/evergreen/analytics-platform.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 10,
+      "name": "VPN & Security",
+      "category": "Security",
+      "promptFile": "prompts/evergreen/vpn-security.md",
+      "status": "planned",
+      "youtubeUrl": null,
+      "downloadUrl": null
+    },
+    {
+      "id": 11,
+      "name": "Aura Perfume",
+      "category": "Beauty",
+      "promptFile": "prompts/custom/aura-perfume.md",
+      "status": "uploaded",
+      "youtubeUrl": null,
+      "downloadUrl": "https://raw.githubusercontent.com/Vsad-Laboratories/UGC_Business/main/videos/aura-perfume.mp4"
+    }
   ]
 }
